@@ -1,6 +1,6 @@
 # Hi there, I'm Aina Rose 👋 
 
-### 🚀 B.Tech Student in Artificial Intelligence & Data Science
+### 🚀 B.Tech Student in Artificial Intelligence
 
 I am a passionate AI student focused on building intelligent systems, analyzing data, and exploring the frontiers of Machine Learning and Deep Learning. I love turning complex data into actionable insights and building predictive models.
 
